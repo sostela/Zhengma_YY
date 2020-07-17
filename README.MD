@@ -1,8 +1,8 @@
 # 小指Zhengma6.6
 
-安装包下载https://github.com/sostela/Zhengma_YY/releases/download/v0.1/Install_ZM_6.6_YY.zip
+安装包下载https://github.com/sostela/Zhengma_YY/releases/download/v0.2/Install_ZM_6.6_YY.zip
 
-字根键位图下载![字根键位图](https://github.com/sostela/Zhengma_YY/releases/download/v0.1/Zhengma_YY_JianPan.jpg)
+字根键位图下载 https://github.com/sostela/Zhengma_YY/releases/download/v0.2/Zhengma_YY_Jianwei.png
 
 ## 下载 https://github.com/sostela/Zhengma_YY/releases/
 
